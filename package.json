@@ -1,0 +1,15 @@
+{
+  "name": "myman-script",
+  "version": "1.0.0",
+  "description": "MyMan Admin Scripts using Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cypher Source",
+  "license": "ISC",
+  "dependencies": {
+    "fcm-node": "^1.5.2",
+    "firebase-admin": "^7.4.0"
+  }
+}
